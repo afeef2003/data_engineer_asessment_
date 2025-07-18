@@ -1,0 +1,24 @@
+# Data Engineering Assessment - Requirements
+# Core dependencies for ETL pipeline
+
+# Database connectivity
+mysql-connector-python==8.2.0
+
+# Data processing
+pandas==2.1.4
+numpy==1.26.4
+
+# Excel file processing (for Field Config.xlsx)
+openpyxl==3.1.2
+
+# JSON handling (built-in, but listing for clarity)
+# json (built-in Python library)
+
+# Logging and utilities
+python-dateutil==2.8.2
+
+# Optional: Data validation
+jsonschema==4.20.0
+
+# Development/Testing 
+pytest==7.4.3
